@@ -34,33 +34,33 @@
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
+    - to know Html, CSS, JavaScript, to create a game.
     - Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Work for a big Software company or have my own company.
+    - I went to make change in mobile games.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Someone who can guird we on how to gain the knowledge.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Hard work, practise, learning.
+    - communication, hard worker and a good coder who is willing to learn.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - I can not find some of the errors i do, understanding the code and being able to explain it. 
+    - Practise and hardwork.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
+    - none for know.
     - Include networking, mentorship, or educational opportunities.
 
 ### Submission
